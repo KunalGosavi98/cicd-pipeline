@@ -9,6 +9,7 @@ public class DemoContoller {
 	@GetMapping("/f1")
 	public String f1()
 	{
+		System.out.println("Hello !!!");
 		
 		return "My First Jenkins Pipeline !!!! ";
 	}
