@@ -10,6 +10,9 @@ public class DemoContoller {
 	public String f1()
 	{
 		
+		System.out.println("Hello !!!");
+		
+		
 		return "My First Jenkins Pipeline !!!! ";
 	}
 	
